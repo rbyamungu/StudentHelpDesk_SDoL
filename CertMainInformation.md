@@ -47,9 +47,9 @@ This document provides a consolidated overview of popular entry-level IT certifi
 *   **Description:** Covers networking fundamentals, including network access, IP connectivity, security, and automation.
 *   **Career Paths:** Network Engineer, Network Administrator, Systems Administrator, Network Analyst.
 *   **Cost:** $300 USD.
-*   **Link:** [Cisco CCNA Certification](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html)
-*   **Study Materials:** [Study-CCNA.com Free CCNA Tutorials](http://www.study-ccna.com/), [Jeremy's IT Lab on YouTube](https://www.youtube.com/c/JeremysITLab)
-*   **Practice Exams:** [LearnCisco.net Free CCNA Practice Tests](http://www.learncisco.net/cisco-practice-tests.html), [FlashGenius CCNA Practice Test](https://flashgenius.net/practice-test/cisco/ccna-200-301/)
+*   **Link:** [Cisco CCNA Certification](https://www.cisco.com/site/us/en/learn/training-certifications/exams/ccna.html)
+*   **Study Materials:** [Cisco Learning](https://learningnetwork.cisco.com/s/learning-plan-detail-standard?ltui__urlRecordId=a1c3i0000005hsQAAQ&ltui__urlRedirect=learning-plan-detail-standard), [Study-CCNA.com Free CCNA Tutorials](http://www.study-ccna.com/), [Jeremy's IT Lab on YouTube](https://www.youtube.com/c/JeremysITLab)
+*   **Practice Exams:** [LearnCisco.net Free CCNA Practice Tests](http://www.learncisco.net/cisco-practice-tests.html), [FlashGenius CCNA Practice Test](https://flashgenius.net/sample-tests/ccna)
 
 ## Security Certifications
 
@@ -59,7 +59,7 @@ This document provides a consolidated overview of popular entry-level IT certifi
 *   **Career Paths:** Cybersecurity Analyst, Security Engineer, Security Consultant, Junior Penetration Tester.
 *   **Cost:** $425 USD.
 *   **Link:** [CompTIA Security+ Certification](https://www.comptia.org/certifications/security)
-*   **Study Materials:** [Professor Messer's CompTIA Security+ Training Course](https://www.professormesser.com/security-plus/sy0-701/sy0-701-training-course/), [Union Test Prep CompTIA Security+ Study Guide](https://uniontestprep.com/comptia-security-plus-exam/study-guide)
+*   **Study Materials:** [Professor Messer's CompTIA Security+ Training Course](https://www.professormesser.com/sy0-701-certification-course/), [Union Test Prep CompTIA Security+ Study Guide](https://uniontestprep.com/comptia-security-plus-exam/study-guide)
 *   **Practice Exams:** [ExamCompass CompTIA Security+ Practice Tests](https://www.examcompass.com/comptia/security-plus-certification/free-security-plus-practice-tests), [Crucial Exams CompTIA Security+ Practice Tests](https://crucialexams.com/exams/comptia/security+/)
 
 ## Cloud Certifications
