@@ -29,6 +29,9 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     };
 
+    certsBtn.addEventListener('click', () => loadMarkdown('CertWideRange.md', certsBtn));
+    costsBtn.addEventListener('click', () => loadMarkdown('CertCost.md', costsBtn));
+    studyBtn.addEventListener('click', () => loadMarkdown('CertFreeStudyMate.md', studyBtn));
     mainBtn.addEventListener('click', () => loadMarkdown('CertMainInformation.md', mainBtn));
 
     // Load default content
