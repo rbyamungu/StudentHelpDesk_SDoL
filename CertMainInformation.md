@@ -10,8 +10,8 @@ This document provides a consolidated overview of popular entry-level IT certifi
 *   **Career Paths:** IT Support Specialist, Help Desk Technician, Field Service Technician, Desktop Support Analyst.
 *   **Cost:** $506 USD (two exams).
 *   **Link:** [CompTIA A+ Certification](https://www.comptia.org/certifications/a)
-*   **Study Materials:** [Professor Messer's CompTIA A+ Training Course](https://www.professormesser.com/free-a-plus-training/220-1101/220-1101-video/220-1101-training-course/), [Union Test Prep CompTIA A+ Study Guide](https://uniontestprep.com/comptia-a-core-series/study-guide)
-*   **Practice Exams:** [ExamCompass CompTIA A+ Practice Tests](https://www.examcompass.com/comptia/a-plus-certification/free-a-plus-practice-tests), [Crucial Exams CompTIA A+ Practice Tests](https://crucialexams.com/exams/comptia/a+/)
+*   **Study Materials:** [Professor Messer's CompTIA A+ Training Course](https://www.professormesser.com/free-a-plus-training/220-1101/220-1101-video/220-1101-training-course/), [Union Test Prep CompTIA A+ Study Guide](https://uniontestprep.com/comptia-a-core-series-exam/study-guide)
+*   **Practice Exams:** [ExamCompass CompTIA A+ Practice Tests](https://www.examcompass.com/comptia/a-plus-certification/free-a-plus-practice-tests), [Crucial Exams CompTIA A+ Practice Tests](https://crucialexams.com/exams/comptia/a/220-1201/practice-tests-practice-questions)
 
 ### Google IT Support Professional Certificate
 *   **Issuing Organization:** Google
@@ -19,8 +19,8 @@ This document provides a consolidated overview of popular entry-level IT certifi
 *   **Career Paths:** IT Support Specialist, Help Desk Technician, Technical Support Specialist.
 *   **Cost:** $49 USD per month via Coursera.
 *   **Link:** [Google IT Support Professional Certificate on Coursera](https://www.coursera.org/professional-certificates/google-it-support)
-*   **Study Materials:** [Coursera - Audit the course for free](https://www.coursera.org/professional-certificates/google-it-support), [Reddit - Full course notes](https://www.reddit.com/r/GoogleITSupport/comments/833v6q/full_course_notes_for_all_5_courses_of_the_google/)
-*   **Practice Exams:** [Vision Training Systems Practice Exam](https://visiontrainingsystems.com/course/google-it-support-professional-certificate-practice-exam/)
+*   **Study Materials:** [Coursera - Audit the course for free](https://www.coursera.org/professional-certificates/google-it-support), [Google IT Support Professional Training](https://docs.google.com/document/d/1fCmP7FKMmrn3LVP4npvEfs1G-aj0N4sngC3-bMwI5gs/edit?tab=t.0)
+*   **Practice Exams:** [Vision Training Systems Practice Test](https://www.visiontrainingsystems.com/blogs/google-it-support-professional-certificate-gitspc-free-practice-test/)
 
 ### CompTIA ITF+ (IT Fundamentals)
 *   **Issuing Organization:** CompTIA
@@ -28,8 +28,8 @@ This document provides a consolidated overview of popular entry-level IT certifi
 *   **Career Paths:** Pre-career certification, stepping stone to CompTIA A+.
 *   **Cost:** $134 USD.
 *   **Link:** [CompTIA ITF+ Certification](https://www.comptia.org/certifications/it-fundamentals)
-*   **Study Materials:** [ITU Online Free 7-Day Access](https://www.ituonline.com/course/comptia-it-fundamentals-fco-u61/), [TechGee on YouTube](https://www.youtube.com/playlist?list=PLi-n_f2pWnmn_g03sX2lVn3_mYg8_aWzO)
-*   **Practice Exams:** [Crucial Exams CompTIA ITF+ Practice Test](https://crucialexams.com/exams/comptia/itf+/), [Test-Guide CompTIA ITF+ Practice Test](https://www.test-guide.com/comptia-itf-plus-practice-test.html)
+*   **Study Materials:** [ITU Online Free 7-Day Access](https://www.ituonline.com/courses/free-courses/free-comptia-it-fundamentals-training-itf-fco-u61/), [TechGee on YouTube](https://www.youtube.com/watch?v=jWtnlPWTnuw)
+*   **Practice Exams:** [Crucial Exams CompTIA ITF+ Practice Test](https://crucialexams.com/exams/comptia/itf+/), [Test-Guide CompTIA ITF+ Practice Test](https://www.test-guide.com/comptia-itf-practice-test.html)
 
 ## Networking Certifications
 
@@ -39,8 +39,8 @@ This document provides a consolidated overview of popular entry-level IT certifi
 *   **Career Paths:** Network Administrator, Network Technician, IT Consultant, Junior Network Engineer.
 *   **Cost:** $358 USD.
 *   **Link:** [CompTIA Network+ Certification](https://www.comptia.org/certifications/network)
-*   **Study Materials:** [Professor Messer's CompTIA Network+ Training Course](https://www.professormesser.com/network-plus/n10-008/n10-008-training-course/), [Union Test Prep CompTIA Network+ Study Guide](https://uniontestprep.com/comptia-network-plus-exam/study-guide)
-*   **Practice Exams:** [ExamCompass CompTIA Network+ Practice Tests](https://www.examcompass.com/comptia/network-plus-certification/free-network-plus-practice-tests), [Crucial Exams CompTIA Network+ Practice Tests](https://crucialexams.com/exams/comptia/network+/)
+*   **Study Materials:** [Professor Messer's CompTIA Network+ Training Course](https://www.professormesser.com/network-plus/n10-008/n10-008-training-course/), [Union Test Prep CompTIA Network+ Study Guide](https://uniontestprep.com/comptia-network/study-guide)
+*   **Practice Exams:** [ExamCompass CompTIA Network+ Practice Tests](https://www.examcompass.com/comptia/network-plus-certification/free-network-plus-practice-tests), [Crucial Exams CompTIA Network+ Practice Tests](https://crucialexams.com/exams/comptia/network/n10-009/practice-tests-practice-questions?srsltid=AfmBOopgv36c4_j0tHWlMXHWwRdLTB0QPVyf3dxAxTmdb9iy9d5CwCRj)
 
 ### Cisco Certified Network Associate (CCNA)
 *   **Issuing Organization:** Cisco
@@ -48,7 +48,7 @@ This document provides a consolidated overview of popular entry-level IT certifi
 *   **Career Paths:** Network Engineer, Network Administrator, Systems Administrator, Network Analyst.
 *   **Cost:** $300 USD.
 *   **Link:** [Cisco CCNA Certification](https://www.cisco.com/site/us/en/learn/training-certifications/exams/ccna.html)
-*   **Study Materials:** [Cisco Learning](https://learningnetwork.cisco.com/s/learning-plan-detail-standard?ltui__urlRecordId=a1c3i0000005hsQAAQ&ltui__urlRedirect=learning-plan-detail-standard), [Study-CCNA.com Free CCNA Tutorials](http://www.study-ccna.com/), [Jeremy's IT Lab on YouTube](https://www.youtube.com/c/JeremysITLab)
+*   **Study Materials:** [Cisco Learning](https://learningnetwork.cisco.com/s/learning-plan-detail-standard?ltui__urlRecordId=a1c3i0000005hsQAAQ&ltui__urlRedirect=learning-plan-detail-standard), [Study-CCNA.com Free CCNA Tutorials](http://www.study-ccna.com/), [Jeremy's IT Lab on YouTube](https://www.youtube.com/watch?v=H8W9oMNSuwo&list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ)
 *   **Practice Exams:** [LearnCisco.net Free CCNA Practice Tests](http://www.learncisco.net/cisco-practice-tests.html), [FlashGenius CCNA Practice Test](https://flashgenius.net/sample-tests/ccna)
 
 ## Security Certifications
@@ -59,8 +59,8 @@ This document provides a consolidated overview of popular entry-level IT certifi
 *   **Career Paths:** Cybersecurity Analyst, Security Engineer, Security Consultant, Junior Penetration Tester.
 *   **Cost:** $425 USD.
 *   **Link:** [CompTIA Security+ Certification](https://www.comptia.org/certifications/security)
-*   **Study Materials:** [Professor Messer's CompTIA Security+ Training Course](https://www.professormesser.com/sy0-701-certification-course/), [Union Test Prep CompTIA Security+ Study Guide](https://uniontestprep.com/comptia-security-plus-exam/study-guide)
-*   **Practice Exams:** [ExamCompass CompTIA Security+ Practice Tests](https://www.examcompass.com/comptia/security-plus-certification/free-security-plus-practice-tests), [Crucial Exams CompTIA Security+ Practice Tests](https://crucialexams.com/exams/comptia/security+/)
+*   **Study Materials:** [Professor Messer's CompTIA Security+ Training Course](https://www.professormesser.com/sy0-701-certification-course/), [Union Test Prep CompTIA Security+ Study Guide](https://uniontestprep.com/comptia-security/study-guide)
+*   **Practice Exams:** [ExamCompass CompTIA Security+ Practice Tests](https://www.examcompass.com/comptia/security-plus-certification/free-security-plus-practice-tests), [Crucial Exams CompTIA Security+ Practice Tests](https://crucialexams.com/exams/comptia/security/sy0-701/practice-tests-practice-questions?srsltid=AfmBOopSeWDE5BUgUsM5Y7kjfOZPeEqjZB4vP0FuPiHyl7o9TppBJPB1)
 
 ## Cloud Certifications
 
